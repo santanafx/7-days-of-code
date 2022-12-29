@@ -1,10 +1,9 @@
 .opiniao {
-  margin-top: 5em;
   background: rgba(196, 25, 25, 0.03);
   border-radius: 16px;
   text-align: center;
   padding: 3em 5em 3em 5em;
-  margin: 0 7em;
+  margin: 4em 7em;
 }
 
 .opiniao__colaboradores {

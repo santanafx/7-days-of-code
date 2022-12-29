@@ -5,6 +5,7 @@
 @import url(./css/vagas.css);
 @import url(./css/emprego.css);
 @import url(./css/opiniao.css);
+@import url(./css/oportunidades.css);
 
 :root {
   --branco: #ffffff;
@@ -13,6 +14,7 @@
   --azul-escuro: #101828;
   --fonte-principal: "Inter", sans-serif;
   --borda-caixa: #eaecf0;
+  --footer: #98a2b3;
 }
 
 .corpo {
