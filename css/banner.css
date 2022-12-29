@@ -1,0 +1,26 @@
+.banner {
+  text-align: center;
+}
+
+.banner__primeiraFrase {
+  color: var(--vermelho);
+  font-weight: 600;
+  margin-top: 90px;
+  margin-bottom: 40px;
+}
+
+.banner__segundaFrase {
+  font-weight: 600;
+  color: var(--azul-escuro);
+  font-size: 48px;
+  margin-bottom: 50px;
+}
+
+.banner__terceiraFrase {
+  display: inline-block;
+  color: var(--cinza-cabecalho);
+  font-size: 20px;
+  font-weight: 400;
+  width: 42%;
+  margin-bottom: 90px;
+}
