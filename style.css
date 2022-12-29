@@ -1,0 +1,12 @@
+@import url(./css/cabecalho.css);
+
+:root {
+  --branco: #ffffff;
+  --cinza-cabecalho: #667085;
+  --vermelho: #8e2424;
+  --fonte-principal: "Inter";
+}
+
+body {
+  font-family: var(--fonte-principal) !important;
+}
