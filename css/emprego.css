@@ -1,0 +1,38 @@
+.emprego {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+}
+
+.emprego__design {
+  grid-column: 2;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 2em 0;
+  color: var(--azul-escuro);
+}
+
+.emprego__caixa {
+  grid-column: 2;
+  border: 1px solid var(--borda-caixa);
+  border-radius: 16px;
+  margin-bottom: 1.5em;
+}
+
+.emprego__cargo {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--azul-escuro);
+  margin: 1.5em 1.3em;
+}
+
+.emprego__condicoes {
+  display: flex;
+  margin: 1.5em 1.5em;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--cinza-cabecalho);
+}
+
+.emprego__item {
+  margin-right: 1.5em;
+}

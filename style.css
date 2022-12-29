@@ -3,6 +3,7 @@
 @import url(./css/banner.css);
 @import url(./css/cartao.css);
 @import url(./css/vagas.css);
+@import url(./css/emprego.css);
 
 :root {
   --branco: #ffffff;
@@ -10,6 +11,7 @@
   --vermelho: #8e2424;
   --azul-escuro: #101828;
   --fonte-principal: "Inter", sans-serif;
+  --borda-caixa: #eaecf0;
 }
 
 .corpo {
