@@ -1,0 +1,40 @@
+.opiniao {
+  margin-top: 5em;
+  background: rgba(196, 25, 25, 0.03);
+  border-radius: 16px;
+  text-align: center;
+  padding: 3em 5em 3em 5em;
+  margin: 0 7em;
+}
+
+.opiniao__colaboradores {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vermelho);
+  margin: 1.5em 0;
+}
+
+.opiniao__optimus {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 44px;
+  color: var(--azul-escuro);
+  margin-bottom: 0.7em;
+}
+
+.opiniao__imagem {
+  margin-bottom: 0.7em;
+}
+
+.opiniao__nome {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--azul-escuro);
+  margin-bottom: 0.6em;
+}
+
+.opiniao__cargo {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--cinza-cabecalho);
+}
