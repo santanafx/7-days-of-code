@@ -21,6 +21,7 @@
   color: var(--cinza-cabecalho);
   font-size: 20px;
   font-weight: 400;
-  width: 42%;
+  width: 55%;
   margin-bottom: 90px;
+  line-height: 30px;
 }
