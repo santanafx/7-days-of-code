@@ -1,0 +1,28 @@
+.vagas {
+  text-align: center;
+  margin: 0 4em;
+  margin-top: 9em;
+}
+
+.vagas__abertas {
+  display: inline-block;
+  background: rgba(142, 36, 36, 0.05);
+  border-radius: 16px;
+  color: var(--vermelho);
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.vagas__procurando {
+  font-weight: 600;
+  font-size: 36px;
+  color: var(--azul-escuro);
+  margin: 0.5em 0;
+}
+
+.vagas__equipe {
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--cinza-cabecalho);
+  margin-bottom: 4em;
+}
