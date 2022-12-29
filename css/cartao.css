@@ -1,0 +1,29 @@
+.cartoes {
+  display: flex;
+  margin: 0em 5em;
+  justify-content: space-between;
+}
+
+.cartao__item {
+  width: 25%;
+  padding: 0 1em;
+}
+
+.cartao__primeiraLinha {
+  font-size: 60px;
+  color: var(--vermelho);
+  font-weight: 600;
+}
+
+.cartao__segundaLinha {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--azul-escuro);
+  margin: 1em 0;
+}
+
+.cartao__terceiraLinha {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--cinza-cabecalho);
+}
