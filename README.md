@@ -1,6 +1,6 @@
 # 7-days-of-code
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/robotron-2000/blob/projeto_inicial/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/7-days-of-code/blob/main/LICENSE)
 
 # Sobre o projeto
 
