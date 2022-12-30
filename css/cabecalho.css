@@ -1,8 +1,7 @@
 .cabecalho {
   background: var(--branco);
-  padding: 2em;
+  padding: 2em 0;
   width: 100%;
-  max-width: 1440px;
   margin: auto;
 }
 
