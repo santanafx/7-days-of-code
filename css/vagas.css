@@ -1,7 +1,7 @@
 .vagas {
   text-align: center;
-  margin: 0 4em;
-  margin-top: 9em;
+  margin: auto;
+  width: 90%;
 }
 
 .vagas__abertas {
@@ -25,4 +25,9 @@
   font-size: 20px;
   color: var(--cinza-cabecalho);
   margin-bottom: 4em;
+}
+
+.vagas__imagem {
+  max-width: 100%;
+  min-width: 100%;
 }

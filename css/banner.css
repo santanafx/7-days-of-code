@@ -1,12 +1,15 @@
 .banner {
   text-align: center;
+  width: 100%;
+  margin: auto;
+  padding-top: 2.5em;
 }
 
 .banner__primeiraFrase {
+  display: inline-block;
   color: var(--vermelho);
   font-weight: 600;
-  margin-top: 90px;
-  margin-bottom: 40px;
+  margin-bottom: 2em;
 }
 
 .banner__segundaFrase {

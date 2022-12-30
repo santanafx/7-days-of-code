@@ -3,7 +3,8 @@
   border-radius: 16px;
   text-align: center;
   padding: 3em 5em 3em 5em;
-  margin: 4em 7em;
+  margin: auto;
+  width: 80%;
 }
 
 .opiniao__colaboradores {
