@@ -12,7 +12,7 @@ https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0
 
 ### Link do projeto na web
 
-7-days-of-code-pux0dnwy2-santanafx.vercel.app
+https://www.7-days-of-code-pux0dnwy2-santanafx.vercel.app
 
 
 
