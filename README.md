@@ -10,9 +10,9 @@ Atividade do #7DaysOfCode que foi pensada por pessoas do mercado para que seja r
 
 https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&t=QXYObCf3BPKdOnJ2-0
 
-### Link do projeto na web
+### Link do projeto no vercel
 
-https://www.7-days-of-code-pux0dnwy2-santanafx.vercel.app
+www.7-days-of-code-pux0dnwy2-santanafx.vercel.app
 
 
 
